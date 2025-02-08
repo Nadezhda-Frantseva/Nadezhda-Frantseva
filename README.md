@@ -7,3 +7,9 @@
 - 📧 You can reach me at **nfrantseva00@gmail.com**.
 - 💼 Connect me on LinkedIn: [Nadezhda Frantseva](https://www.linkedin.com/in/nadezhda-frantseva/) 
 - ⚡ Fun fact: I love **running, fitness, and optimizing** not just models but also productivity and daily routines! 😄
+
+
+## 💻 Programming languages that I have experience with:
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
