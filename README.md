@@ -13,3 +13,7 @@
 <img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<img align="left" alt="Java" width="50px" styles="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />
