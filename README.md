@@ -2,6 +2,7 @@
 
 - 🎓 I'm currently studying **Artificial Intelligence** at Sofia University.
 - 🧠 I’m working on my thesis: **"Cognitive state recognition models through EEG data analysis"**.
+- 🧑‍🏫 **Teaching Assistant in Software Requirements Analysis** at Sofia University. 
 - 💡 My interests include **AI, Machine Learning, Data Science, Data Engineering, and Software Engineering**.
 - 🚀 Passionate about solving real-world problems with AI-driven solutions.
 - 📧 You can reach me at **nfrantseva00@gmail.com**.
