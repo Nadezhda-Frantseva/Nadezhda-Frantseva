@@ -1,11 +1,11 @@
-## Hi there 👋, welcome to my repo!
+## Hi there 👋, welcome to my GitHub profile!
 
-- 🎓 I just defended my Master’s Thesis with honors in **Artificial Intelligence** at Sofia University.
+- 🎓 Master’s in **Artificial Intelligence**, Sofia University — thesis defended with honors.
 - 🧠 Thesis title: "Cognitive state recognition models through EEG data analysis".
 - 📖 Co-author of [**EEG Data Analysis for Dementia State Recognition**](https://www.researchgate.net/publication/408169527_EEG_Data_Analysis_for_Dementia_State_Recognition), published by Springer in 2026.
 - 🎯 Junior Data Scientist at NOTO – 360 Fraud and Compliance.
 - 🔹 Previously worked at VMware as Software Engineer Level 1.
-- 🧑‍🏫 I was an assistant in **Software Requirements Analysis** at Sofia University for one semester.
+- 🧑‍🏫 Former Teaching Assistant in **Software Requirements Analysis** at Sofia University.
 - 💡 My interests include **AI, Machine Learning, Data Science, Data Engineering, and Software Engineering**.
 - 🚀 Passionate about solving real-world problems with AI-driven solutions.
 - 📧 You can reach me at **nfrantseva00@gmail.com**.
