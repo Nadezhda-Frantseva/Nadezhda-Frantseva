@@ -1,7 +1,7 @@
 ## Hi there 👋, welcome to my repo!
 
 - 🎓 I just defended my Master’s Thesis with honors in **Artificial Intelligence** at Sofia University.
-- 🧠 Thesis title: **"Cognitive state recognition models through EEG data analysis"**.
+- 🧠 My Master’s research focused on **cognitive state recognition through EEG data analysis** and led to a **co-authored book chapter published by Springer in 2026**.
 - 🎯 Joining NOTO – 360 Fraud and Compliance as a Junior Data Scientist.
 - 🔹 Previously worked at VMware as Software Engineer Level 1.
 - 🧑‍🏫 I was an assistant in **Software Requirements Analysis** at Sofia University for one semester.
