@@ -8,6 +8,7 @@
 - 🧑‍🏫 Former Teaching Assistant in **Software Requirements Analysis** at Sofia University.
 - 💡 My interests include **AI, Machine Learning, Data Science, Data Engineering, and Software Engineering**.
 - 🚀 Passionate about solving real-world problems with AI-driven solutions.
+- 🛠️ Available for small, clearly scoped freelance projects alongside my current role — [Upwork](https://www.upwork.com/freelancers/~019c2a7b467134c01a).
 - 📧 You can reach me at **nfrantseva00@gmail.com**.
 - 💼 Connect with me on LinkedIn: [Nadezhda Frantseva](https://www.linkedin.com/in/nadezhda-frantseva/) 
 - ⚡ Fun fact: I love **running, fitness, and optimizing** not just models but also productivity and daily routines! 😄
